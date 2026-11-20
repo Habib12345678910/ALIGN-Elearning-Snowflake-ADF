@@ -1,4 +1,5 @@
- "name": "PL_TECHINNOV_ELT",
+{
+"name": "PL_TECHINNOV_ELT",
     "properties": {
         "description": "Pipeline ELT automatisé pour le projet e-learning Techinnov. Orchestration des transformations incrémentales Snowflake, contrôle de qualité des données et alimentation de la couche Gold pour le reporting Power BI.",
         "activities": [
